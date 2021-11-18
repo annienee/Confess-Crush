@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Tụi em  biết mà 🥰. Yêu thầy cô nhiều nhiều 😘😘',
     messDesc: 'Thầy cô đang cười đúng humm hihii',
     btnAccept: 'Nhìn là biết rồii',
-    messLink: 'https://github.com/zukahai/nokk.0410' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://github.com/nokk.0410' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
